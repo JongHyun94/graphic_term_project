@@ -1,0 +1,4 @@
+﻿  TeamProject2.cpp
+c:\users\noel1\source\repos\teamproject\teamproject2.cpp(80): warning C4309: '인수': 상수 값이 잘립니다.
+  TeamProject.vcxproj -> C:\Users\noel1\source\repos\TeamProject\Debug\TeamProject.exe
+  TeamProject.vcxproj -> C:\Users\noel1\source\repos\TeamProject\Debug\TeamProject.pdb (Partial PDB)
